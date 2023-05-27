@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.context{
+    background-color: #8a2be2;
+}
+.context_botton{
+    height: 150px;
+    background-color: #8a2be2;
+}
+.ventana{
+    background-image: url(/assets/img/93168696fa839fe0233ceda3952b14c7.jpg);
+}
+.accordion-button:focus{
+    box-shadow: none;
+}
+.bg-purple{
+    background-color: #8a2be2;
+}
+.bg-light-purple{
+    background-color: #9550d6;
+}
+.bg-reverse-purple{
+    background-color: #c1a4db;
+}
+.accordion{
+    --bs-accordion-active-bg: #9550d6;
+}
+.chat:hover{
+    background-color: #9550d6;
+}
+img:hover{
+    width: 100px;
+    position: absolute;
+    z-index: 1;
+}
